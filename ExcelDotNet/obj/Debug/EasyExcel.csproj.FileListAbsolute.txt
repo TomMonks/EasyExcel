@@ -1,0 +1,10 @@
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\ExcelDotNet\ExcelDotNet\bin\Debug\EasyExcel.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\ExcelDotNet\ExcelDotNet\bin\Debug\EasyExcel.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\ExcelDotNet\ExcelDotNet\bin\Debug\Microsoft.Office.Interop.Excel.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\ExcelDotNet\ExcelDotNet\bin\Debug\office.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\ExcelDotNet\ExcelDotNet\bin\Debug\Microsoft.Vbe.Interop.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\ExcelDotNet\ExcelDotNet\bin\Debug\Microsoft.Office.Interop.Excel.xml
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\ExcelDotNet\ExcelDotNet\bin\Debug\office.xml
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\ExcelDotNet\ExcelDotNet\obj\Debug\EasyExcel.csprojResolveAssemblyReference.cache
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\ExcelDotNet\ExcelDotNet\obj\Debug\EasyExcel.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\ExcelDotNet\ExcelDotNet\obj\Debug\EasyExcel.pdb
