@@ -23,16 +23,18 @@ namespace EasyExcel
 
         #region Output
 
-        public void Write(Point topLeft)
+        public void Write(ExcelCellCoordinate topLeft)
         {
-            var currentLocation = topLeft;
+            Point topLeftAsPoint = topLeft.AsPoint();
+
+            var currentLocation = topLeftAsPoint;
 
             currentLocation = WriteHeaders(currentLocation);
 
             currentLocation.Y++;
-            currentLocation.X = topLeft.X;
+            currentLocation.X = topLeftAsPoint.X;
 
-            WriteData(ref topLeft, ref currentLocation);
+            WriteData(ref topLeftAsPoint, ref currentLocation);
         }
 
         private Point WriteHeaders(Point currentLocation)

@@ -31,7 +31,7 @@ namespace EasyExcel
         public void Write(ExcelCellCoordinate loc)
         {
             var adapter = new DataTableToExcelAdapter(wkSheet, ConvertListOfObjectsToDataTable(listToOutput));
-            adapter.Write(new System.Drawing.Point(loc.Col, loc.Row));
+            adapter.Write(loc);
         }
 
 
